@@ -52,7 +52,7 @@ body, h1, h2, h3, p, ul, li {
 
 .slideshow {
     width: 100%;
-    max-width: 600px;
+    max-width: 2000px;
     margin: 0 auto;
     overflow: hidden;
     position: relative;
